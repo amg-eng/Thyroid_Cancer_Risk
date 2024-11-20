@@ -4,7 +4,7 @@
 This project aims to predict the recurrence risk of thyroid cancer using various machine learning models combined into an ensemble. The ensemble model leverages the strengths of multiple algorithms to enhance prediction accuracy and reliability.
 
 ## Authors
-- [Ziyad El-Fayoumy](https://github.com/Zoz-HF)
+- [Ziyad El-Fayoumy](https://github.com/Ziyad-HF)
 - [Mohamed Elsayed](https://github.com/melsayed8450)
 - [Amgad Atef](https://github.com/amg-eng)
 - [Abdelrahman Shawky](https://github.com/AbdulrahmanGhitani)
